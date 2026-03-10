@@ -7,6 +7,8 @@
  *
  * @author Adm
  */
+import javax.swing.JOptionPane;
+
 public class cadastroVIEW extends javax.swing.JFrame {
 
     /**
